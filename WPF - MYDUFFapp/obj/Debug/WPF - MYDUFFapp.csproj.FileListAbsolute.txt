@@ -1,0 +1,15 @@
+C:\Users\B217\Downloads\WPF - MYDUFFapp\bin\Debug\WPF - MYDUFFapp.exe.config
+C:\Users\B217\Downloads\WPF - MYDUFFapp\bin\Debug\WPF - MYDUFFapp.exe
+C:\Users\B217\Downloads\WPF - MYDUFFapp\bin\Debug\WPF - MYDUFFapp.pdb
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\WPF - MYDUFFapp.csproj.AssemblyReference.cache
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\MainWindow.g.cs
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\App.g.cs
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\WPF - MYDUFFapp_MarkupCompile.cache
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\WPF - MYDUFFapp_MarkupCompile.lref
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\MainWindow.baml
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\WPF - MYDUFFapp.g.resources
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\WPF___MYDUFFapp.Properties.Resources.resources
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\WPF - MYDUFFapp.csproj.GenerateResource.cache
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\WPF - MYDUFFapp.csproj.CoreCompileInputs.cache
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\WPF - MYDUFFapp.exe
+C:\Users\B217\Downloads\WPF - MYDUFFapp\obj\Debug\WPF - MYDUFFapp.pdb
